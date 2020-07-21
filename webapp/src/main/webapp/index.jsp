@@ -1,3 +1,21 @@
-<h1> Hello, Welcome to Valaxy Technologies !!! </h1>
-<h2> Deploying on Kubernetes </h2>
-<h3> One last test </h3>
+<html>
+<head>
+<title>Sample "Hello, World" Application</title>
+</head>
+<body bgcolor=white>
+
+<table border="0">
+<tr>
+<td>
+<img src="tomcat.gif">
+</td>
+<td>
+<h1>Sample "Hello, World" Application</h1>
+<p>This is the home page for a sample application used to illustrate the
+source directory organization of a web application utilizing the principles
+outlined in the Application Developer's Guide.
+</td>
+</tr>
+</table>
+</body>
+</html>
